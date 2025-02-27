@@ -5,6 +5,8 @@ In this author’s opinion, time series forecasting is the most challenging prob
 
 In this repo, we will explore how PyCaret, an automated machine learning Python package, can be utilised to forecast sales in a US-based brick-and-mortar store. Our focus will be on classical and machine learning models applied to a univariate scenario. The sales time series that we will be looking represents daily sales in US dollars. 
 
+**NOTE**: In order to reduce the size of the accompanying Jupyter notebook, the cells containing the commands for the EDA plots have been commented. Please make sure you uncomment those cells when running the notebook in your environment. 
+
 
 
 
